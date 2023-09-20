@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Driver</string>
+     <string moduleConfig="true" name="CodePushDeploymentKey">7uceL0mdc9tf5ltXZLTgk_pf9w0vpg7l-cE9f</string>
+</resources>
